@@ -1,0 +1,102 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="300dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/titlePopup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="Edit the text below"
+        android:textColor="@color/textColor"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:fontFamily="@font/rimouskisb_regular" />
+
+    <TextView
+        android:id="@+id/subtitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="Edit the text below"
+        android:textColor="@color/textColor"
+        android:textSize="15dp"
+        android:fontFamily="@font/rimouskisb_regular" />
+    <TextView
+        android:id="@+id/type_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="Type your chosen language in english to interpret "
+        android:textColor="#808080"
+        android:textSize="15dp"
+        android:fontFamily="@font/rimouskisb_regular" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginBottom="8dp">
+
+        <EditText
+            android:id="@+id/popupEditText"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="Enter text..."
+            android:inputType="textMultiLine"
+            android:fontFamily="@font/rimouskisb_regular"
+            android:minHeight="300dp"
+            android:scrollbars="vertical" />
+    </ScrollView>
+
+    <TextView
+        android:layout_marginLeft="10dp"
+        android:id="@+id/remainingWordCount"
+        android:layout_width="wrap_content"
+        android:fontFamily="@font/rimouskisb_regular"
+        android:layout_height="wrap_content"
+        android:text="Remaining Words : 50"
+        android:layout_marginBottom="8dp"/>
+    <TextView
+        android:layout_margin="10dp"
+        android:id="@+id/EnglishNote"
+        android:visibility="gone"
+        android:textColor="#FF0000"
+        android:layout_width="wrap_content"
+        android:fontFamily="@font/rimouskisb_regular"
+        android:layout_height="wrap_content"
+        android:text="Note: Kannada language is chosen. Please type Kannada sentences."
+        android:layout_marginBottom="8dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_margin="10dp"
+            android:id="@+id/cancelButton"
+            android:layout_width="0dp"
+            android:background="@drawable/rounded_button_background"
+            android:fontFamily="@font/rimouskisb_regular"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/white"
+            android:text="Cancel" />
+
+        <Button
+            android:id="@+id/interpretButton"
+            android:textColor="@color/white"
+            android:layout_margin="10dp"
+            android:background="@drawable/button_disabled_color"
+            android:fontFamily="@font/rimouskisb_regular"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:enabled="true"
+            android:text="Interpret" />
+
+    </LinearLayout>
+</LinearLayout>

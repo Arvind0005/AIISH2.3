@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Let\'sTalkSign</string>
+    <string name="accessibility_service_description">Let\'sTalkSign service</string>
+    <string name="accessibility_service_label">Let\'sTalkSign</string>
+    <string name="accessibility_service_name">Text_Service\n</string>
+    <string name="tap_mic_and_speek">tap mic to speak\n</string>
+    <string name="new_game">menu</string>
+    <string name="server_url">https://ltswebapp.centralindia.cloudapp.azure.com</string>
+    <string name="choose_language_hint">Choose your language</string>
+    <string name="TranslationUrl">https://ltswebapp.centralindia.cloudapp.azure.com/get_translation</string>
+</resources>

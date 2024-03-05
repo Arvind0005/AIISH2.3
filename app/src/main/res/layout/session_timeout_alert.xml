@@ -1,0 +1,38 @@
+<!-- res/layout/session_timeout_alert.xml -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:fontFamily="@font/rimouskisb_regular"
+        android:layout_height="wrap_content"
+        android:text="Alert!"
+        android:textColor="@color/textColor"
+        android:textStyle="bold"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/alertMessage"
+        android:fontFamily="@font/rimouskisb_regular"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Session has timed out.\nPlease logout and login again."
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:textColor="@android:color/black"
+        android:textSize="16sp" />
+
+    <Button
+        android:fontFamily="@font/rimouskisb_regular"
+        android:id="@+id/okButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OK"
+        android:background="@drawable/rounded_button_background"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"/>
+</LinearLayout>

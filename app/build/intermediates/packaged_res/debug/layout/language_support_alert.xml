@@ -1,0 +1,36 @@
+<!-- res/layout/custom_alert_dialog.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:fontFamily="@font/rimouskisb_regular"
+        android:id="@+id/alertTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textStyle="bold"
+        android:text="Language Not Supported"
+        android:textColor="?android:attr/textColorPrimary" />
+
+    <TextView
+        android:fontFamily="@font/rimouskisb_regular"
+        android:id="@+id/alertMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="At present, this feature only supports English as the language. Please change the language in order to use this feature."
+        android:textColor="?android:attr/textColorSecondary" />
+
+    <Button
+        android:background="@drawable/rounded_button_background"
+        android:fontFamily="@font/rimouskisb_regular"
+        android:id="@+id/okButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="OK" />
+</LinearLayout>

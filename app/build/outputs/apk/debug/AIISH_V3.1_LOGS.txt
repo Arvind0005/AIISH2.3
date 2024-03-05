@@ -1,0 +1,8 @@
+AIISH_V3.1: CHANGES LOG
+
+
+NEW SERVER MIGRATION
+ARYA URL-"https://app.aiish.letstalksign.org/page-app-aiish.html"
+LOG FIXING.
+vocab log feature.
+Bug fixing.
