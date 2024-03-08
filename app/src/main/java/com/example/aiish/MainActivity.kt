@@ -74,7 +74,6 @@ import com.android.volley.toolbox.Volley
 import com.bugfender.sdk.Bugfender
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions
-import com.example.aiish.ui.theme.AIISHTheme
 import com.google.android.gms.auth.api.signin.GoogleSignIn
 import com.google.android.gms.auth.api.signin.GoogleSignInClient
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions
@@ -245,6 +244,18 @@ class MainActivity : ComponentActivity() {
                         webView.evaluateJavascript(jsCode, null)
                     }
                 }
+            }
+            if(sms=="landscape")
+            {
+                var appBarTitle = findViewById<TextView>(R.id.appbar_title)
+                appBarTitle.setText("Story/Rhymes")
+                requestedOrientation = ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE
+            }
+            else if(sms=="portrait")
+            {
+                var appBarTitle = findViewById<TextView>(R.id.appbar_title)
+                appBarTitle.setText("Interpret Text/Voice")
+                requestedOrientation = ActivityInfo.SCREEN_ORIENTATION_PORTRAIT;
             }
         }
     }
@@ -427,7 +438,7 @@ class MainActivity : ComponentActivity() {
                 println(jsonObject)
                 if(status=="<ERROR>")
                 {
-                    sessionAlert(this@MainActivity);
+//                    sessionAlert(this@MainActivity);
                     Toast.makeText(this, "Unfortunate Error occurred : $message", Toast.LENGTH_LONG).show()
                 }
 
@@ -448,12 +459,11 @@ class MainActivity : ComponentActivity() {
                             "sessionAlert " + "401error from Server: sessionAlert}",
                         fileName
                     );
-                    sessionAlert(this@MainActivity);
+//                    sessionAlert(this@MainActivity);
                 }
                 return super.parseNetworkResponse(response)
             }
         }
-
         mRequestQueue!!.add(mStringRequest)
     }
 
@@ -581,7 +591,7 @@ class MainActivity : ComponentActivity() {
         fileHandler.createAndWriteToFile("INFO "+"content2 ", fileName);
 
         registerReceiver(sessionMsg, IntentFilter("session_message"),RECEIVER_EXPORTED)
-        registerReceiver(usageLog, IntentFilter("usageLog"))
+        registerReceiver(usageLog, IntentFilter("usageLog"), RECEIVER_NOT_EXPORTED)
       //
         if (config.smallestScreenWidthDp >= 600) {
             isTablet=true;
@@ -593,8 +603,17 @@ class MainActivity : ComponentActivity() {
         }
         var orientationButton = findViewById<Button>(R.id.orientationChangeButton)
         orientationButton.setOnClickListener {
-            // Change orientation to landscape
             requestedOrientation = ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE
+
+            // Get the width of the screen
+//            val displayMetrics = DisplayMetrics()
+//            windowManager.defaultDisplay.getMetrics(displayMetrics)
+//            val screenWidth = displayMetrics.widthPixels
+//
+//            // Set the layout parameters for the WebView
+//            val params = webView.layoutParams
+//            params.width = screenWidth // Set width to screen width
+//            webView.layoutParams = params
         }
         if (isTablet) {
             val text_button: ImageView = findViewById(R.id.webview_text_ic)
@@ -721,7 +740,7 @@ class MainActivity : ComponentActivity() {
         webSettings.javaScriptEnabled = true
 
         // Load the URL
-        val userurl = "https://app.aiish.letstalksign.org/page-app-aiish.html"
+        val userurl = "https://app.aiish.letstalksign.org/page-app-aiish-story.html"
 //        webView.webViewClient = MyWebViewClient()
         webView.settings.javaScriptEnabled = true
         webView.settings.userAgentString = "useragentstring"
@@ -730,8 +749,12 @@ class MainActivity : ComponentActivity() {
         webView.settings.javaScriptCanOpenWindowsAutomatically = true
 
         webView.settings.domStorageEnabled = true
+        if (savedInstanceState == null)
+        {
+            webView.loadUrl(userurl)
+        }
 
-        webView.loadUrl(userurl)
+
         // webView.loadUrl("file:///android_asset/webview.html");
 
 
@@ -932,6 +955,7 @@ class MainActivity : ComponentActivity() {
 
     override fun onSaveInstanceState(outState: Bundle) {
         super.onSaveInstanceState(outState)
+        webView.saveState(outState);
         Bugfender.d("MainActivity", "onSaveInstanceState")
         outState.putString("token", token)
         outState.putString("deviceId", deviceId)
@@ -940,6 +964,7 @@ class MainActivity : ComponentActivity() {
 
     override fun onRestoreInstanceState(savedInstanceState: Bundle) {
         super.onRestoreInstanceState(savedInstanceState)
+        webView.restoreState(savedInstanceState);
         Bugfender.d("ImageUriff", imageUri.toString())
         token = savedInstanceState.getString("token").toString()
         deviceId = savedInstanceState.getString("deviceId").toString()

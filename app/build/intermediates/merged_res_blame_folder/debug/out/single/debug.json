@@ -1,226 +1,230 @@
 [
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable-anydpi_ic_ocr.xml.flat",
-        "source": "com.example.aiish.app-main-69:/drawable-anydpi/ic_ocr.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\layout_session_timeout_alert.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\layout\\session_timeout_alert.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/menu_navigation_menu.xml.flat",
-        "source": "com.example.aiish.app-main-69:/menu/navigation_menu.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable-anydpi_ic_logout.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable-anydpi\\ic_logout.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable-anydpi_ic_closebutton.xml.flat",
-        "source": "com.example.aiish.app-main-69:/drawable-anydpi/ic_closebutton.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.aiish.app-main-69:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\layout_language_support_alert.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\layout\\language_support_alert.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/xml_network_security_config.xml.flat",
-        "source": "com.example.aiish.app-main-69:/xml/network_security_config.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable_signup_bg.jpeg.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable\\signup_bg.jpeg"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable_signin_wgoogle.png.flat",
-        "source": "com.example.aiish.app-main-69:/drawable/signin_wgoogle.png"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable-anydpi_ic_dropdown.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable-anydpi\\ic_dropdown.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.aiish.app-main-69:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable_small_logo.png.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable\\small_logo.png"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/layout_signup_page.xml.flat",
-        "source": "com.example.aiish.app-main-69:/layout/signup_page.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\menu_navigation_menu.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\menu\\navigation_menu.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.aiish.app-main-69:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable_lts_logo.png.flat",
-        "source": "com.example.aiish.app-main-69:/drawable/lts_logo.png"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\layout_popup_layout.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\layout\\popup_layout.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable_mic_button.png.flat",
-        "source": "com.example.aiish.app-main-69:/drawable/mic_button.png"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable-anydpi_ic_mic.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable-anydpi\\ic_mic.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable-anydpi_ic_menu.xml.flat",
-        "source": "com.example.aiish.app-main-69:/drawable-anydpi/ic_menu.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable-anydpi_ic_profile.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable-anydpi\\ic_profile.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable-anydpi_ic_keyboard.xml.flat",
-        "source": "com.example.aiish.app-main-69:/drawable-anydpi/ic_keyboard.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable_mic_button.png.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable\\mic_button.png"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable-anydpi_ic_text.xml.flat",
-        "source": "com.example.aiish.app-main-69:/drawable-anydpi/ic_text.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\layout_mainactivity_tablet.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\layout\\mainactivity_tablet.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/xml_backup_rules.xml.flat",
-        "source": "com.example.aiish.app-main-69:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/layout_signup_tablet.xml.flat",
-        "source": "com.example.aiish.app-main-69:/layout/signup_tablet.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable-anydpi_ic_menu.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable-anydpi\\ic_menu.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/layout_language_support_alert.xml.flat",
-        "source": "com.example.aiish.app-main-69:/layout/language_support_alert.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable-anydpi_ic_search.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable-anydpi\\ic_search.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable_dvt_logo.png.flat",
-        "source": "com.example.aiish.app-main-69:/drawable/dvt_logo.png"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable_rounded_style.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable\\rounded_style.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.aiish.app-main-69:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable-anydpi_ic_apps.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable-anydpi\\ic_apps.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable-anydpi_ic_profile.xml.flat",
-        "source": "com.example.aiish.app-main-69:/drawable-anydpi/ic_profile.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable\\border.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable_rounded_style.xml.flat",
-        "source": "com.example.aiish.app-main-69:/drawable/rounded_style.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable_button_disabled_color.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable\\button_disabled_color.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/layout_spinner_iteam.xml.flat",
-        "source": "com.example.aiish.app-main-69:/layout/spinner_iteam.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable-anydpi_ic_closebutton.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable-anydpi\\ic_closebutton.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable_border.xml.flat",
-        "source": "com.example.aiish.app-main-69:/drawable/border.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.aiish.app-main-69:/mipmap-xxxhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.aiish.app-merged_res-67:/layout_popup_layout.xml.flat",
-        "source": "com.example.aiish.app-main-69:/layout/popup_layout.xml"
-    },
-    {
-        "merged": "com.example.aiish.app-merged_res-67:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.aiish.app-main-69:/mipmap-xxxhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable_accessibility_disable.png.flat",
-        "source": "com.example.aiish.app-main-69:/drawable/accessibility_disable.png"
-    },
-    {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable_signup_bg.jpeg.flat",
-        "source": "com.example.aiish.app-main-69:/drawable/signup_bg.jpeg"
-    },
-    {
-        "merged": "com.example.aiish.app-merged_res-67:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.aiish.app-main-69:/mipmap-mdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.aiish.app-merged_res-67:/layout_spinner_iteam_tablet.xml.flat",
-        "source": "com.example.aiish.app-main-69:/layout/spinner_iteam_tablet.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\xml\\data_extraction_rules.xml"
     },
     {
         "merged": "com.example.aiish.app-merged_res-67:/layout_mainactivity_tablet.xml.flat",
         "source": "com.example.aiish.app-main-69:/layout/mainactivity_tablet.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/layout_mainactivity.xml.flat",
-        "source": "com.example.aiish.app-main-69:/layout/mainactivity.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\layout_spinner_iteam.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\layout\\spinner_iteam.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable-anydpi_ic_logout.xml.flat",
-        "source": "com.example.aiish.app-main-69:/drawable-anydpi/ic_logout.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.aiish.app-main-69:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable_lts_logo.png.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable\\lts_logo.png"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.aiish.app-main-69:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable_type_button.png.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable\\type_button.png"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable-anydpi_ic_dropdown.xml.flat",
-        "source": "com.example.aiish.app-main-69:/drawable-anydpi/ic_dropdown.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable_scan_button.png.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable\\scan_button.png"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable_type_button.png.flat",
-        "source": "com.example.aiish.app-main-69:/drawable/type_button.png"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable-anydpi_ic_search.xml.flat",
-        "source": "com.example.aiish.app-main-69:/drawable-anydpi/ic_search.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.aiish.app-main-69:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\layout_signup_page.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\layout\\signup_page.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable_scan_button.png.flat",
-        "source": "com.example.aiish.app-main-69:/drawable/scan_button.png"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable_signin_wgoogle.png.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable\\signin_wgoogle.png"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/font_rimouskisb_regular.ttf.flat",
-        "source": "com.example.aiish.app-main-69:/font/rimouskisb_regular.ttf"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\font_rimousskisb.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\font\\rimousskisb.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable-anydpi_ic_mic.xml.flat",
-        "source": "com.example.aiish.app-main-69:/drawable-anydpi/ic_mic.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\layout_mainactivity.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\layout\\mainactivity.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/layout_row_layout.xml.flat",
-        "source": "com.example.aiish.app-main-69:/layout/row_layout.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\layout_signup_tablet.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\layout\\signup_tablet.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.aiish.app-main-69:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable-anydpi_ic_text.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable-anydpi\\ic_text.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.aiish.app-main-69:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable-anydpi_ic_keyboard.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable-anydpi\\ic_keyboard.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable_lets_tts.png.flat",
-        "source": "com.example.aiish.app-main-69:/drawable/lets_tts.png"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable-anydpi_ic_apps.xml.flat",
-        "source": "com.example.aiish.app-main-69:/drawable-anydpi/ic_apps.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable_lets_tts.png.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable\\lets_tts.png"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable-anydpi_ic_backappbar.xml.flat",
-        "source": "com.example.aiish.app-main-69:/drawable-anydpi/ic_backappbar.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable_dvt_logo.png.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable\\dvt_logo.png"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable_button_disabled_color.xml.flat",
-        "source": "com.example.aiish.app-main-69:/drawable/button_disabled_color.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\layout_row_layout.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\layout\\row_layout.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.aiish.app-main-69:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.aiish.app-main-69:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\xml\\network_security_config.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/font_rimousskisb.xml.flat",
-        "source": "com.example.aiish.app-main-69:/font/rimousskisb.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\font_rimouskisb_regular.ttf.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\font\\rimouskisb_regular.ttf"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable_rounded_button_background.xml.flat",
-        "source": "com.example.aiish.app-main-69:/drawable/rounded_button_background.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/drawable_small_logo.png.flat",
-        "source": "com.example.aiish.app-main-69:/drawable/small_logo.png"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/layout_session_timeout_alert.xml.flat",
-        "source": "com.example.aiish.app-main-69:/layout/session_timeout_alert.xml"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable_rounded_button_background.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable\\rounded_button_background.xml"
     },
     {
-        "merged": "com.example.aiish.app-merged_res-67:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.aiish.app-main-69:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\layout_spinner_iteam_tablet.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\layout\\spinner_iteam_tablet.xml"
+    },
+    {
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable-anydpi_ic_ocr.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable-anydpi\\ic_ocr.xml"
+    },
+    {
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable_accessibility_disable.png.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable\\accessibility_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\drawable-anydpi_ic_backappbar.xml.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\drawable-anydpi\\ic_backappbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-merged_res-67:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arvin\\.gradle\\daemon\\8.2\\com.example.aiish.app-main-69:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     }
 ]

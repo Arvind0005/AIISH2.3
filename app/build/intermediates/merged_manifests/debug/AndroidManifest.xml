@@ -36,12 +36,7 @@
         android:theme="@style/Theme.AIISH" >
         <activity
             android:name="com.example.aiish.MainActivity"
-            android:exported="true"
-            android:label="Let&apos;sTalkSign"
-            android:screenOrientation="portrait" >
-        </activity>
-        <activity
-            android:name="com.example.aiish.Signin_page"
+            android:configChanges="orientation|screenSize"
             android:exported="true"
             android:label="Let&apos;sTalkSign"
             android:screenOrientation="portrait" >
@@ -50,6 +45,12 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.aiish.Signin_page"
+            android:exported="true"
+            android:label="Let&apos;sTalkSign"
+            android:screenOrientation="portrait" >
         </activity>
         <activity
             android:name="com.google.firebase.auth.internal.GenericIdpActivity"

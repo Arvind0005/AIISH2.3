@@ -20,18 +20,19 @@
             android:name=".MainActivity"
             android:label="Let'sTalkSign"
             android:screenOrientation="portrait"
-            android:exported="true">
-
+            android:exported="true"
+            android:configChanges="orientation|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
         <activity
             android:name=".Signin_page"
             android:label="Let'sTalkSign"
             android:screenOrientation="portrait"
             android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+
         </activity>
     </application>
 

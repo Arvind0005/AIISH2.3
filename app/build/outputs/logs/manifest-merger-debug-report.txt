@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:2:1-38:12
+ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:2:1-39:12
 MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\arvin\.gradle\caches\transforms-3\4338b0dc50f9d506508e93ea26e1c06f\transformed\firebase-auth-22.3.1\AndroidManifest.xml:17:1-75:12
 MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\arvin\.gradle\caches\transforms-3\95e3d12f0bb3d31605c36b15bf6d57e7\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:2:1-18:12
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\arvin\.gradle\caches\transforms-3\7da616108e95b4da788a4d9461cbde74\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
@@ -149,8 +149,8 @@ MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Us
 	android:name
 		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:6:22-64
 application
-ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:7:5-36:19
-INJECTED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:7:5-36:19
+ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:7:5-37:19
+INJECTED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:7:5-37:19
 MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\arvin\.gradle\caches\transforms-3\4338b0dc50f9d506508e93ea26e1c06f\transformed\firebase-auth-22.3.1\AndroidManifest.xml:28:5-73:19
 MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\arvin\.gradle\caches\transforms-3\4338b0dc50f9d506508e93ea26e1c06f\transformed\firebase-auth-22.3.1\AndroidManifest.xml:28:5-73:19
 MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\arvin\.gradle\caches\transforms-3\95e3d12f0bb3d31605c36b15bf6d57e7\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
@@ -240,35 +240,37 @@ MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\arvin\.gradle\c
 	android:name
 		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:8:9-28
 activity#com.example.aiish.MainActivity
-ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:19:9-25:20
+ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:19:9-29:20
 	android:screenOrientation
 		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:22:13-49
 	android:label
 		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:21:13-42
 	android:exported
 		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:23:13-36
+	android:configChanges
+		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:24:13-59
 	android:name
 		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:20:13-41
-activity#com.example.aiish.Signin_page
-ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:26:9-35:20
-	android:screenOrientation
-		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:29:13-49
-	android:label
-		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:28:13-42
-	android:exported
-		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:30:13-36
-	android:name
-		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:27:13-40
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:31:13-34:29
+ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:25:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:32:17-69
+ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:32:25-66
+		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:33:17-77
+ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:33:27-74
+		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.example.aiish.Signin_page
+ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:30:9-36:20
+	android:screenOrientation
+		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:32:13-42
+	android:exported
+		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml:31:13-40
 uses-sdk
 INJECTED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\arvin\AndroidStudioProjects\AIISH\app\src\main\AndroidManifest.xml
